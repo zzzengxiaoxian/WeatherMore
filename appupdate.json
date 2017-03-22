@@ -3,7 +3,7 @@
     "results":
         {
             "app": "什么天气",
-            "versionCode": 2,
+            "versionCode": 3,
             "versionName": "1.1",
 	        "updateTime": "2017-02-04 13:14:00",
             "information": "解决Gank妹纸图加载失败时程序异常的bug\n新增查看全部公交线路的功能！",
