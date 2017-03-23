@@ -1,13 +1,13 @@
-{
+﻿{
     "error": false,
     "results":
         {
             "app": "什么天气",
-            "versionCode": 4,
-            "versionName": "1.2",
+            "versionCode": 2,
+            "versionName": "1.1.2",
 	        "updateTime": "2017-02-04 13:14:00",
             "information": "解决Gank妹纸图加载失败时程序异常的bug\n新增查看全部公交线路的功能！",
             "foreUpdate": false,
-            "url":"https://github.com/zzzengxiaoxian/WeatherMore/blob/master/SMTQ_v1.0_20170322.apk?raw=true"
+            "url":"https://github.com/zzzengxiaoxian/WeatherMore/blob/master/smtq_v1.1.2_0170323.apk?raw=true"
         }
 }
